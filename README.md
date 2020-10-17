@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Working on World.
+- 🌱 Learning Python, Devops, Machine learning, Rust.
+- 👯 I’m looking to collaborate on any interesting community project
+
+
 <!--
 **martinezhenry/martinezhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
