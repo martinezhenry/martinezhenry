@@ -13,6 +13,10 @@
 - 👯 I’m looking to collaborate on any interesting community project
 
 
+# Daily DevCard
+
+<a href="https://app.daily.dev/martinezhenry"><img src="https://api.daily.dev/devcards/4d957350593649e49f936a26ac86ded4.png?r=tuv" width="400" alt="Henry Martinez's Dev Card"/></a>
+
 <!-- Pinned Repositories -- >
 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
