@@ -43,7 +43,9 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
 
+# Badges
 
+[![@martinezhenry's Holopin board](https://holopin.me/martinezhenry)](https://holopin.io/@martinezhenry)
 
 <!--
 **martinezhenry/martinezhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
